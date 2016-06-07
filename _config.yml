@@ -1,0 +1,28 @@
+name: QIULI
+favicon: null
+layout_spectrum: 0.5855377661064267
+typography_spectrum: 0.061304486356675625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.30193388159386814
+  lightness: 0.7365056665148586
+  saturation: 0.10543753579258919
+  rhythmicContrast: 0.9788446761667728
+purpose: []
